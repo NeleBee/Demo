@@ -4,4 +4,5 @@ Library Carpentry
 ## Hot Topics
 
 -Today's news
-_Ed, Edd and Eddy
+-Ed, Edd and Eddy
+-Hello
